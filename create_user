@@ -1,0 +1,6 @@
+# Script test chuc nang Tao User Moi
+def test_create_user_success():
+    print("1. Mo trang Quan ly User")
+    print("2. Nhap thong tin User moi")
+    print("3. Bam nut Luu")
+    print("4. Verify: User moi xuat hien trong danh sach")
